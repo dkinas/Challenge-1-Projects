@@ -1,0 +1,20 @@
+p {
+  color: blue;
+  float: off;
+}
+h1 {
+  font-family: Serif;
+}
+h2 {
+  font-family: serif;
+}
+h3 {
+  font-family: serif;
+}
+h4 {
+  font-family: serif;
+}
+img {
+  border: 20 20 20 20;
+  float: right;
+}
